@@ -9,7 +9,7 @@
 
    **3.** Create Profit and Loss (P&L) reports by _[Month](https://github.com/munna2627/Excel-Finance-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
   
-- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate comunication with stakeholders.
+- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods foundation for budgeting and forecasting.
 
